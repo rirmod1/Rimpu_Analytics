@@ -2,11 +2,11 @@
 
 1. Sales Report
    
-![image](https://github.com/rirmod1/Rimpu_Analytics/assets/155675597/a49f9af8-bffb-48c0-9182-186e1d42f02c)
+![image](https://github.com/rirmod1/Rimpu_Analytics/assets/155675597/dc7ecf64-93fe-4918-bd13-c3820e5f993e)
 
 2. Finance P & L Report
 
-![image](https://github.com/rirmod1/Rimpu_Analytics/assets/155675597/9546bddf-3bc3-49ba-aa23-c55b16b53b68)
+![image](https://github.com/rirmod1/Rimpu_Analytics/assets/155675597/4e6749bf-82cc-4ddb-9a11-77925fc0a985)
 
 3. Project Priority Matrix
 
