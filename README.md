@@ -9,7 +9,7 @@ Link to Project: https://github.com/rirmod1/Rimpu_Analytics/blob/main/Finance%20
 Explaination: ![image](https://github.com/rirmod1/Rimpu_Analytics/assets/155675597/4e6749bf-82cc-4ddb-9a11-77925fc0a985)
 
 3. Project Priority Matrix
-Link to Project:
+Link to Project:https://github.com/rirmod1/Rimpu_Analytics/blob/main/Project%20Priority%20Matrix.pdf
 Explaination: ![image](https://github.com/rirmod1/Rimpu_Analytics/assets/155675597/e0e0e2d1-18fc-4092-80fc-eae1a1cc8306)
 
 4. Scenario Planning Tool
