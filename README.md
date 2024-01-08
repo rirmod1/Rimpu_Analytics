@@ -13,7 +13,7 @@ Link to Project:https://github.com/rirmod1/Rimpu_Analytics/blob/main/Project%20P
 Explaination: ![image](https://github.com/rirmod1/Rimpu_Analytics/assets/155675597/e0e0e2d1-18fc-4092-80fc-eae1a1cc8306)
 
 4. Scenario Planning Tool
-Link to Project:
+Link to Project: https://github.com/rirmod1/Rimpu_Analytics/blob/main/My%20Scenario%20Planning%20Tool.pdf
 Explaination: ![image](https://github.com/rirmod1/Rimpu_Analytics/assets/155675597/316a1bc1-21e1-4f98-bcc8-94826047e08c)
 
 
